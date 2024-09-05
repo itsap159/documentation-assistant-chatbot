@@ -19,8 +19,6 @@ Key features include web scraping for automated knowledge base creation, robust 
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [How It Works](#how-it-works)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -48,7 +46,7 @@ Key features include web scraping for automated knowledge base creation, robust 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/documentation-assistant-chatbot.git
+git clone https://github.com/itsap159/documentation-assistant-chatbot.git
 cd documentation-assistant-chatbot
 ```
 
